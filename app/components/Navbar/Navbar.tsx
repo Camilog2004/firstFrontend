@@ -41,7 +41,7 @@ export default function Navbar({ isAuthenticated, rol, nombre, }: NavbarProps) {
         {/* Logo */}
         <div>
           <Link to="/">
-            <img src="../../img/logo.png" alt="Logo" className="h-auto w-24 object-contain" />
+            <img src="public/imgAbout/nodo.png" alt="Logo" className="h-auto w-24 object-contain" />
           </Link>
         </div>
 
